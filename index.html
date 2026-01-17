@@ -7,16 +7,26 @@ layout: default
     
     <ul class="post-list" style="list-style: none; padding: 0;">
       {% for post in site.posts %}
+        {% if post.lang == 'en' or post.lang == nil %}
         <li style="margin-bottom: 2rem; border-bottom: 1px solid #eee; padding-bottom: 2rem;">
           <h3>
             <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
           </h3>
           <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+          
+          {% assign translation = site.posts | where:"ref", post.ref | where:"lang", "th" | first %}
+          {% if translation %}
+            <a href="{{ translation.url | relative_url }}" class="btn-lang-switch" style="font-size: 0.75rem; padding: 0.1rem 0.4rem; margin-left: 0.5rem; display: inline-block;">
+              🇹🇭 Read in Thai
+            </a>
+          {% endif %}
+
           <div class="post-excerpt" style="margin-top: 0.5rem; color: #555;">
             {{ post.excerpt }}
           </div>
           <a href="{{ post.url | relative_url }}" style="font-size: 0.9rem; font-weight: bold; display: inline-block; margin-top: 0.5rem;">Read More &rarr;</a>
         </li>
+        {% endif %}
       {% endfor %}
     </ul>
   </div>
