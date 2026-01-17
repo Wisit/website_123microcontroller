@@ -1,0 +1,182 @@
+:root {
+  --bg-color: #ffffff;
+  --text-color: #333333;
+  --link-color: #0056b3;
+  --link-hover: #004494;
+  --code-bg: #f8f9fa;
+  --border-color: #e0e0e0;
+  --sidebar-bg: #f8f9fa;
+  --header-height: 60px;
+  --font-body: 'Inter', 'Roboto', sans-serif;
+  --font-code: 'Fira Code', 'Consolas', monospace;
+  --ide-bg: #2d2d2d;
+  --ide-fg: #f8f8f2;
+}
+
+/* Reset & Base */
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  padding: 0;
+  font-family: var(--font-body);
+  color: var(--text-color);
+  background-color: var(--bg-color);
+  line-height: 1.6;
+}
+
+a { color: var(--link-color); text-decoration: none; }
+a:hover { text-decoration: underline; color: var(--link-hover); }
+
+/* Typography */
+h1, h2, h3, h4, h5, h6 { margin-top: 1.5em; margin-bottom: 0.5em; font-weight: 700; color: #111; }
+h1 { font-size: 2.2rem; }
+h2 { font-size: 1.8rem; border-bottom: 2px solid var(--border-color); padding-bottom: 0.3rem; }
+h3 { font-size: 1.5rem; }
+
+/* Layout */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+/* Navbar */
+.navbar {
+  height: var(--header-height);
+  background: white;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+}
+.navbar-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+.site-title { font-weight: 700; font-size: 1.25rem; color: #111; }
+.nav-links a { margin-left: 1.5rem; font-weight: 500; color: #555; }
+.nav-links a:hover { color: var(--link-color); }
+
+/* Main Content */
+.main-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  padding: 2rem 0;
+  min-height: calc(100vh - var(--header-height) - 100px); /* Adjust for footer */
+}
+
+.content-column {
+  flex: 1 1 70%; /* Grow, shrink, basis */
+  min-width: 0; /* Prevent overflow issues */
+}
+
+.sidebar-column {
+  flex: 0 0 300px; /* Fixed width sidebar preferred, or generic 25% */
+}
+
+@media (max-width: 768px) {
+  .main-wrapper { flex-direction: column; }
+  .sidebar-column { flex: 1 1 auto; width: 100%; order: 2; } /* Sidebar to bottom */
+  .content-column { order: 1; }
+}
+
+/* Post Styling */
+.post-header { margin-bottom: 2rem; }
+.post-meta { color: #666; font-size: 0.9rem; margin-bottom: 0.5rem; }
+.post-content p { margin-bottom: 1.25em; }
+
+/* Code Blocks (IDE Style) */
+pre, .highlight {
+  background-color: var(--ide-bg);
+  color: var(--ide-fg);
+  border-radius: 6px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  font-family: var(--font-code);
+  font-size: 0.9rem;
+  margin-bottom: 1.5rem;
+}
+pre {
+  padding: 1rem;
+  overflow-x: auto;
+}
+/* When Rouge wraps pre in a div.highlight */
+.highlight pre {
+  margin: 0;
+  box-shadow: none;
+  background-color: transparent; /* Inherit from container */
+}
+code {
+  font-family: var(--font-code);
+  background-color: var(--code-bg);
+  padding: 0.2em 0.4em;
+  border-radius: 3px;
+  font-size: 0.9em;
+  color: #d63384; /* Highlight inline code distinct from block */
+}
+pre code {
+  background-color: transparent;
+  padding: 0;
+  color: inherit;
+  font-size: 100%;
+}
+
+/* Sidebar Components */
+.sidebar-widget {
+  margin-bottom: 2rem;
+  padding: 1.5rem;
+  background: var(--sidebar-bg);
+  border-radius: 4px;
+  border: 1px solid var(--border-color);
+}
+.sidebar-title {
+  margin-top: 0;
+  font-size: 1.1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: #555;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.5rem;
+  margin-bottom: 1rem;
+}
+.ad-placeholder {
+  width: 100%;
+  height: 250px;
+  background-color: #e9ecef;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #999;
+  font-weight: bold;
+  border: 1px dashed #ccc;
+}
+
+/* AdSense Placeholder in Content */
+.content-ad-slot {
+  margin: 2rem 0;
+  padding: 1rem;
+  background: #f8f9fa;
+  border: 1px dashed #ccc;
+  text-align: center;
+  color: #777;
+  font-size: 0.9rem;
+  min-height: 120px; /* Reduce CLS by reserving space */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Footer */
+.site-footer {
+  background: #f1f1f1;
+  padding: 2rem 0;
+  text-align: center;
+  color: #666;
+  margin-top: auto;
+  border-top: 1px solid var(--border-color);
+}

@@ -1,0 +1,23 @@
+<div class="sidebar-widget">
+  <h3 class="sidebar-title">About</h3>
+  <p>Welcome to <strong>123Microcontroller</strong>. Dedicated to clean, engineering-focused tutorials and resources for embedded systems.</p>
+</div>
+
+<div class="sidebar-widget">
+  <h3 class="sidebar-title">Advertisement</h3>
+  <div class="ad-placeholder">
+    <!-- 300x250 Ad Unit -->
+    300 x 250 Ad
+  </div>
+</div>
+
+<div class="sidebar-widget">
+  <h3 class="sidebar-title">Recent Posts</h3>
+  <ul style="list-style: none; padding: 0;">
+    {% for post in site.posts limit:5 %}
+      <li style="margin-bottom: 0.5rem;">
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>

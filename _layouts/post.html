@@ -1,0 +1,62 @@
+---
+layout: default
+---
+<div class="content-column">
+  <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+    <header class="post-header">
+      <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+      <p class="post-meta">
+        <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+          {{ page.date | date: "%b %-d, %Y" }}
+        </time>
+        {% if page.author %}
+          • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
+        {% endif %}
+      </p>
+    </header>
+
+    <div class="post-content e-content" itemprop="articleBody" id="post-content-body">
+      {{ content }}
+    </div>
+
+    <div id="in-article-ad-hidden" style="display: none;">
+      <div class="content-ad-slot">
+        <strong>Advertisement</strong>
+        {% include adsense.html %}
+      </div>
+    </div>
+
+  </article>
+</div>
+
+<aside class="sidebar-column">
+  {% include sidebar.html %}
+</aside>
+
+<script>
+  // Simple Ad Injection Logic
+  document.addEventListener("DOMContentLoaded", function() {
+    var content = document.getElementById('post-content-body');
+    var ad = document.getElementById('in-article-ad-hidden');
+    
+    if (content && ad) {
+      var paragraphs = content.getElementsByTagName('p');
+      if (paragraphs.length > 0) {
+        // Inject after the first paragraph
+        var firstP = paragraphs[0];
+        // Create a visible clone or move the element
+        var adClone = ad.cloneNode(true);
+        adClone.style.display = 'block';
+        adClone.id = 'in-article-ad-visible';
+        
+        firstP.parentNode.insertBefore(adClone, firstP.nextSibling);
+      } else {
+        // Fallback: prepend if no paragraphs
+        var adClone = ad.cloneNode(true);
+        adClone.style.display = 'block';
+        content.insertBefore(adClone, content.firstChild);
+      }
+    }
+  });
+</script>
