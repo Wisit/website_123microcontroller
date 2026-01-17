@@ -54,7 +54,7 @@ Cortex-M4 ถูกออกแบบมาให้เป็น **"Digital Sign
 ### 2. DSP Instructions & SIMD
 **SIMD (Single Instruction Multiple Data)** คือความสามารถในการ "สั่งงานทีเดียว ได้งานหลายชิ้น" ครับ
 
-![SIMD Diagram showing 32-bit register split into two 16-bit audio samples](assets/images/stm32f4-simd-diagram.jpg)
+![SIMD Diagram showing 32-bit register split into two 16-bit audio samples]({{ site.baseurl }}/assets/images/stm32f4-simd-diagram.jpg)
 *แผนภาพแสดงการทำงานของ SIMD: คำสั่งเดียว ประมวลผลข้อมูลเสียง 2 ตัวพร้อมกัน*
 
 **สถานการณ์ตัวอย่าง:** สมมติคุณทำระบบเสียง (Audio Processing) ข้อมูลเสียงมักมาในรูปแบบ 16-bit แต่ CPU ของเรากว้างถึง 32-bit
