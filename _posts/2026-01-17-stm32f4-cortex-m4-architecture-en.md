@@ -54,6 +54,9 @@ The STM32F4 includes a dedicated **Hardware FPU (Single Precision)**. Decimal mu
 ### 2. DSP Instructions & SIMD
 **SIMD (Single Instruction Multiple Data)** is the ability to "order once, get multiple jobs done."
 
+![SIMD Diagram showing 32-bit register split into two 16-bit audio samples](/assets/images/stm32f4-simd-diagram.jpg)
+*Diagram showing SIMD operation: Single instruction processes two 16-bit audio samples at once*
+
 **Scenario:** Imagine you are building an audio system. Audio data often comes in 16-bit samples, but our CPU is 32-bit wide.
 
 * **Cortex-M3:** Must load audio sample #1, add it. Then load sample #2, and add it. (Two separate operations).
