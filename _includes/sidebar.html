@@ -18,11 +18,16 @@
 <div class="sidebar-widget">
   <h3 class="sidebar-title">Recent Posts</h3>
   <ul style="list-style: none; padding: 0;">
-    {% assign filtered_posts = site.posts | where_exp:"post", "post.lang == 'en' or post.lang == nil" %}
-    {% for post in filtered_posts limit:5 %}
-      <li style="margin-bottom: 0.5rem;">
-        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      </li>
+    {% assign post_count = 0 %}
+    {% for post in site.posts %}
+      {% if post.lang == 'en' or post.lang == nil %}
+        {% if post_count < 5 %}
+          <li style="margin-bottom: 0.5rem;">
+            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          </li>
+          {% assign post_count = post_count | plus: 1 %}
+        {% endif %}
+      {% endif %}
     {% endfor %}
   </ul>
 </div>
