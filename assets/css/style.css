@@ -125,6 +125,26 @@ pre code {
   font-size: 100%;
 }
 
+/* Language Switcher */
+.btn-lang-switch {
+  display: inline-block;
+  padding: 0.4rem 0.8rem;
+  margin: 0.5rem 0;
+  color: var(--link-color);
+  border: 1px solid var(--link-color);
+  background-color: transparent;
+  border-radius: 4px;
+  font-weight: 500;
+  text-decoration: none;
+  font-size: 0.9rem;
+  transition: all 0.2s ease;
+}
+.btn-lang-switch:hover {
+  background-color: var(--link-color);
+  color: white;
+  text-decoration: none;
+}
+
 /* Sidebar Components */
 .sidebar-widget {
   margin-bottom: 2rem;
