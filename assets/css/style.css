@@ -225,3 +225,75 @@ pre code {
   margin-top: auto;
   border-top: 1px solid var(--border-color);
 }
+
+/* Tag System */
+.tags-cloud {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 2rem;
+  padding: 1.5rem;
+  background-color: white;
+  border-radius: 6px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.tag-pill {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.4rem 1rem;
+  background-color: #eef2f7;
+  color: #0056b3;
+  border-radius: 50px; /* Pill shape */
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 0.95rem;
+  transition: all 0.2s ease;
+}
+
+.tag-pill .count {
+  margin-left: 0.5rem;
+  font-size: 0.8em;
+  opacity: 0.8;
+}
+
+.tag-pill:hover {
+  background-color: #0056b3;
+  color: white;
+  text-decoration: none;
+}
+
+.tag-group {
+  margin-bottom: 2.5rem;
+  scroll-margin-top: 100px; /* Offset for sticky header */
+}
+
+.tag-header {
+  border-bottom: 2px solid #eef2f7;
+  padding-bottom: 0.5rem;
+  color: #0056b3;
+  margin-bottom: 1rem;
+}
+
+.sidebar-tags-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.sidebar-tag {
+  display: inline-block;
+  padding: 0.2rem 0.6rem;
+  background-color: #eef2f7;
+  color: #0056b3;
+  border-radius: 15px; /* Pill shape */
+  font-size: 0.85rem;
+  text-decoration: none;
+  transition: all 0.2s;
+}
+
+.sidebar-tag:hover {
+  background-color: #0056b3;
+  color: white;
+  text-decoration: none;
+}
