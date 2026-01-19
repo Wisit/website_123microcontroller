@@ -34,3 +34,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+
+# Timezone & Future Posts Settings
+timezone: Asia/Bangkok
+future: true
