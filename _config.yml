@@ -1,13 +1,24 @@
 title: 123Microcontroller
+title_separator: "|"
+title_suffix: "Embedded Systems & IoT Tutorials"
 email: wisit.paewkratok@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Engineering Clean. Technical, Minimalist, Code-First.
+  Master Embedded Systems and IoT with a Code-First mindset. Dive deep into ESP32, STM32, Arduino, and PLC with our hands-on tutorials. We go beyond the basics—down to the register level—providing real-world source code for Developers, Engineers, and Makers.
 baseurl: "" # the subpath of your site
 url: "https://www.123microcontroller.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+
+# ------------------------------------
+#  Author & Social (Google Knowledge Graph)
+# ------------------------------------
+author:
+  name: Wisit Paewkratok
+  email: wisit.paewkratok@gmail.com
+  github: wisit
+  facebook: 123Microcontroller
+  twitter: Mecha_Bot
 
 # Build settings
+markdown: kramdown
 theme: null
 plugins:
   - jekyll-feed
@@ -38,3 +49,9 @@ defaults:
 # Timezone & Future Posts Settings
 timezone: Asia/Bangkok
 future: true
+
+# ------------------------------------
+#  Custom Settings
+# ------------------------------------
+# โลโก้สำหรับ Google Search/Social Share
+logo: /assets/images/logo-square.png
