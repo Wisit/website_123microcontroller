@@ -1,9 +1,9 @@
 title: 123Microcontroller
-email: your-email@example.com
+email: wisit.paewkratok@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Engineering Clean. Technical, Minimalist, Code-First.
-baseurl: "/website_123microcontroller" # the subpath of your site
-url: "https://wisit.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site
+url: "https://www.123microcontroller.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
