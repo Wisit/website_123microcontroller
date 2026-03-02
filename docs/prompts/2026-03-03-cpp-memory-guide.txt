@@ -1,0 +1,5 @@
+[Prompt 1: Cover Image (16:9)]
+A cinematic, isometric 3D illustration of a futuristic glowing microchip representing an ESP32 or STM32 microcontroller, connected to intricate glowing circuit board traces. The traces morph into abstract representations of computer memory blocks (Stack and Heap) being visualized. High tech, neon blue and orange accents, dark background, extremely detailed, Unreal Engine 5 render style, 8k resolution, suitable for a technical blog cover graphic --ar 16:9
+
+[Prompt 2: Inline Diagram (3:2)]
+A clean, modern architectural diagram comparing 'Stack' memory space versus 'Heap' memory space in C++ programming. Showing clean data blocks stacked orderly on one side (Stack), and decentralized dynamic nodes with connection lines on the other side (Heap). Pure minimalist white background, technical illustration style, sharp vector graphics, professional blue and gray color palette, clear spacing, highly legible --ar 3:2
