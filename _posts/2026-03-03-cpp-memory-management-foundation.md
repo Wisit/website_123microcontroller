@@ -1,13 +1,19 @@
 ---
 layout: post
 title: "คู่มือเจาะลึก: พื้นฐานภาษา C++ และการจัดการหน่วยความจำสำหรับงานสมองกลฝังตัว"
+lang: th
+ref: cpp-memory-management-foundation
+permalink: /th/cpp-memory-management-foundation/
 description: "ยกระดับจากแค่เขียน Syntax ให้เป็นการเข้าใจกลไกหน่วยความจำ Smart Pointers และ Concurrency ของ C++ เพื่อสร้างระบบที่เสถียรบน ESP32 และ STM32"
 date: 2026-03-03 10:00:00 +0700
 categories: [Programming, C++]
 tags: [cpp, memory-management, pointers, concurrency, machine-learning]
 image: assets/images/cpp-memory-guide.jpg
-ref: cpp-memory-management-foundation
 ---
+
+<div class="adsense-slot"></div>
+
+# ทำความเข้าใจการจัดการหน่วยความจำ C++ สำหรับระบบฝังตัว
 
 ในฐานะ Software Architect หรือวิศวกรระบบสมองกลฝังตัว การเข้าใจเพียงแค่ "ไวยากรณ์" (Syntax) ของภาษา C++ นั้นไม่เพียงพอแน่นอนครับ แต่คุณต้องเข้าใจถึง "กลไกเบื้องหลัง" อย่างถ่องแท้ โดยเฉพาะเรื่องของการจัดการหน่วยความจำและโครงสร้างข้อมูล ไม่ว่าคุณจะทำ Edge Machine Learning บน ESP32, ทำงานกับระบบ Concurrency บน FreeRTOS หรือรันอัลกอริทึมทางเรขาคณิตที่ซับซ้อน ทั้งหมดนี้ต้องการระบบที่มีประสิทธิภาพสูงและปลอดภัย
 
