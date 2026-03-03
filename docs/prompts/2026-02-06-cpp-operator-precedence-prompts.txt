@@ -1,0 +1,5 @@
+1. Cover Image (16:9):
+"Cinematic 3D illustration of a chaotic mathematical equation floating in mid-air above a glowing microcontroller circuit board. A bright neon cyan '&' symbol is being violently crushed underneath a massive, aggressive glowing red '==' symbol dropping like a heavy block. Ancient stone tablets engraved with ancient C code hover in the background. Cyberpunk hardware laboratory, dynamic high-contrast lighting, cyan and warning red aesthetics, 8k resolution, Unreal Engine 5 render, highly detailed --ar 16:9 --style raw"
+
+2. Inline Diagram (3:2):
+"Clean vector infographic on a pure white background explaining the 'Operator Precedence Bug in C'. Split horizontally. Top half (Human Logic / Green): A thought bubble showing the logic '(val & mask) == 0' with a green checkmark and orderly layout. Bottom half (Compiler Reality / Red): A mechanical gear crushing the logic into 'val & (mask == 0)' with a stark red warning sign and zigzag disruption lines. Modern technical UI style, precise logic arrows, cyan and intense red slate-grey color palette, highly scannable, flat design --ar 3:2"
