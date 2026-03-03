@@ -1,0 +1,5 @@
+1. Cover Image (16:9):
+"Cinematic, isometric view of a futuristic glowing computer memory grid (RAM chip). Inside the grid, distinct, highly-detailed neon compartments represent different 'Scopes', containing bright holographic data nodes simulating 'Lifetime' of variables. One section is briefly flashing with blue energy (local block), while another section maintains a steady gold glow (global static data). Cyberpunk tech aesthetic, dark background, 8k resolution, Unreal Engine 5 render, highly detailed, photorealistic --ar 16:9 --style raw"
+
+2. Inline Diagram (3:2):
+"Clean, flat design vector infographic on a pure white background illustrating 'C++ Scope and Lifetime' concepts. On the left side, an abstract architectural blueprint showing 'Scope' boundaries (Inner Block vs Outer Global) with elegant brackets. On the right side, a sleek timeline showing 'Lifetime' (Automatic fading out quickly vs Static persisting continuously). Modern technical UI style, cyan and gold color palette, minimalist, highly scannable, no shading --ar 3:2"
