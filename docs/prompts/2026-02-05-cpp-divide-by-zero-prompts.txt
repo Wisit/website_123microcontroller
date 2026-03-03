@@ -1,0 +1,5 @@
+1. Cover Image (16:9):
+"Cinematic 3D illustration of a glowing, shattered mathematics division symbol ('/') exploding over a dark microcontroller PCB board. Bright sparks and neon red warnings emit from the center of the symbol, indicating a critical hardware fault. Dark sci-fi laboratory aesthetic, high contrast cyan and danger orange lighting, highly detailed circuit traces, 8k resolution, Unreal Engine 5 render, cyberpunk engineering ambiance --ar 16:9 --style raw"
+
+2. Inline Diagram (3:2):
+"Clean vector infographic on a pure white background illustrating 'Safe vs Unsafe Division'. Left side: a red path marked 'divisor == 0' leading to a cracked skull icon labeled 'Hard Fault / Crash'. Right side: a green secure path marked 'divisor != 0' leading to a clean, glowing processor chip labeled 'Safe Execution'. Modern technical UI style, highly scannable, flat design, precise logic arrows, cyan and intense red slate-grey color palette --ar 3:2"

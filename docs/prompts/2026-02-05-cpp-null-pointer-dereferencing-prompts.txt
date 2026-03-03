@@ -1,0 +1,5 @@
+1. Cover Image (16:9):
+"Cinematic 3D illustration of an empty, glowing holographic memory address box marked '0x00000000' suspended in mid-air above a complex microcontroller circuit board. A glowing neon pointer arrow attempts to plug into the empty box but violently sparks and shatters, causing red glitching warning signs and dark smoke to erupt across the board. Dark cyberpunk engineering aesthetic, high contrast cyan and intense warning red lighting, 8k resolution, Unreal Engine 5 render, highly detailed --ar 16:9 --style raw"
+
+2. Inline Diagram (3:2):
+"Clean vector infographic on a pure white background illustrating 'Null-Pointer Dereference vs Safe Checking'. Left side (red path): A 'Pointer' arrow directly striking a 'NULL / 0x0' block, resulting in a shattered skull icon labeled 'Segmentation Fault / UB Crash'. Right side (green path): A 'Pointer' arrow passing through a security shield labeled 'if (ptr != NULL)', leading safely to a glowing memory block labeled 'Data Access'. Modern technical UI style, precise logic flow, cyan and intense red slate-grey color palette, highly scannable --ar 3:2"
