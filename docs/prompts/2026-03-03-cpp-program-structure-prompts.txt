@@ -1,0 +1,5 @@
+1. Cover Image (16:9):
+"Cinematic, isometric view of a glowing C++ source code blueprint gracefully assembling into a physical, complex microchip. Set against a dark, neon-lit cyberpunk background, featuring interconnected circuits and the words 'std::main' faintly glowing in holographic blue. Unreal engine 5 render, high tech precision, dramatic lighting, 8k resolution --ar 16:9 --style raw"
+
+2. Inline Diagram (3:2):
+"Clean vector infographic on a pure white background demonstrating the C++ compilation pipeline. Four flat, modern tech icons representing 'Source Code', 'Compiler', 'Linker', and 'Executable Binary', connected by sleek arrows. Minimalist design, technical UI style, cyan and slate-grey color palette, highly scannable --ar 3:2 --no shading, realistic"
