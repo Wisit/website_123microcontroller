@@ -13,17 +13,21 @@
 
 ## 2. โครงสร้างทางเทคนิค (Technical Structure)
 * **Jekyll Front Matter:**
+    * **ห้ามใส่ตัวแปร `date:` และ `categories:` ลงใน Front Matter เด็ดขาด**
+    * แนะนำให้วางโครงสร้างตามลำดับดังนี้: `layout`, `title`, `lang`, `ref`, `permalink`, `description`, `image`, `tags`
     * `ref`: ต้องเหมือนกันทั้ง 2 ภาษา (เพื่อใช้เป็น Unique ID เชื่อมบทความ)
     * `lang`: ต้องระบุภาษา (`en` หรือ `th`)
     * `permalink`: ต้องจัดการ Path ตามภาษา เช่น `/en/[slug]/` หรือ `/th/[slug]/`
     * `image`: ใช้ Path `assets/images/[filename].jpg` (ไม่ต้องมี `{{ site.baseurl }}`)
 * **Article Body:**
-    * เนื้อหาหลักต้องมีหัวข้อระดับ H1 (`# Title`) เป็นหัวข้อแรกของบทความเสมอ (เพื่อแสดงเป็นหัวข้อของหน้าเว็บ)
+    * หัวข้อ `H1` อันแรกของบทความ **ห้ามตั้งชื่อซ้ำกับชื่อบทความ (Title) ใน Front Matter** (เพื่อหลีกเลี่ยงการแสดงผล H1 ซ้ำซ้อนตอน Render) ควรใช้เป็นชื่อ Section ย่อยแรกแทน
 * **Inline Images:**
     * เมื่อแทรกรูปในเนื้อหาบทความ (`body`) ต้องเติม `{{ site.baseurl }}` นำหน้าเสมอ
     * รูปแบบ: `![Alt Text]({{ site.baseurl }}/assets/images/[filename].jpg)`
 * **AdSense Placement:**
-    * ต้องแทรก `<div class="adsense-slot"></div>` อย่างน้อย 2 จุด (หลัง Intro และ ก่อน Conclusion)
+    * ต้องแทรก `<div class="adsense-slot"></div>` ไว้ 2 จุดเท่านั้น ได้แก่:
+        1. **บรรทัดแรกสุดของ Article Body** (เหนือหัวข้อ H1 หรือเนื้อหาพารากราฟแรกเสมอ)
+        2. ก่อนหัวข้อสรุป (Conclusion / Summary) ด้านล่างสุด
 
 ## 3. กฎการสร้างรูปภาพ (Image Prompting)
 ให้สร้าง Prompt สำหรับ AI (เช่น Midjourney/DALL-E 3) จำนวน 2 ภาพเสมอ:
