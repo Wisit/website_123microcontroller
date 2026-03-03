@@ -1,0 +1,5 @@
+1. Cover Image (16:9):
+"Cinematic, isometric view of a highly detailed, glowing futuristic steel padlock securely locking a translucent data crystal core. Inside the crystal, complex binary code and the word 'constexpr' are heavily shielded and glowing solid bright cyan. Outside the crystal lock, blurry red chaotic code fragments bounce off the shield. Neon tech laboratory background, high contrast lighting, engineering safety concept, 8k resolution, Unreal Engine 5 render, highly detailed --ar 16:9 --style raw"
+
+2. Inline Diagram (3:2):
+"Clean vector infographic on a pure white background illustrating C++ Constants. On the left side, a dangerous-looking red warning symbol with the text '#define Macro' pointing to a messy cloud. On the right side, a solid, secure green shield symbol with the text 'constexpr' pointing to a lightning-fast 'Compile-time' processor icon. Flat modern technical UI design, scannable, clear layout, minimal text, cyan and slate-grey precision scheme --ar 3:2"
