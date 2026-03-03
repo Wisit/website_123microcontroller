@@ -1,0 +1,5 @@
+1. Cover Image (16:9):
+"Cinematic, isometric 3D illustration of a speeding red futuristic Formula 1 race car driving dangerously close to the edge of a glowing digital cliff marked 'UB'. The car is stripped of its outer safety chassis, revealing intensely glowing metallic engine parts. Beneath the cliff is an abyss of chaotic glitching binary code. High contrast lighting, neon red and cyan hues, engineering danger concept, 8k resolution, Unreal Engine 5 render, highly detailed --ar 16:9 --style raw"
+
+2. Inline Diagram (3:2):
+"Clean vector infographic on a pure white background illustrating 'Undefined Behavior bounds'. On the left, a neatly organized safe memory block with green checkmarks. On the right, a chaotic, shattered red computer chip icon representing 'Crash' or 'UB'. A bold warning arrow points from the safe block over an invisible border into the red zone. Modern technical UI style, precise, scannable, flat design, cyan and intense red slate-grey color palette --ar 3:2"
