@@ -5,10 +5,8 @@ lang: en
 ref: cpp-memory-management-foundation
 permalink: /en/cpp-memory-management-foundation/
 description: "Go beyond syntax. Understand C++ memory mechanisms, smart pointers, and concurrency to build high-performance, safe systems on platforms like ESP32 and STM32."
-date: 2026-03-03 10:00:00 +0700
-categories: [Programming, C++]
-tags: [cpp, memory-management, pointers, concurrency, machine-learning]
 image: assets/images/cpp-memory-guide.jpg
+tags: [cpp, memory-management, pointers, concurrency, machine-learning]
 ---
 
 <div class="adsense-slot"></div>
@@ -18,8 +16,6 @@ image: assets/images/cpp-memory-guide.jpg
 As a Software Architect or embedded systems engineer, simply understanding the "syntax" of C++ is not enough. To build high-performance, safe, and robust systems—whether you're working on Edge Machine Learning with an ESP32, dealing with RTOS concurrency, or crunching geometric algorithms—you must understand the "mechanisms behind the scenes," particularly memory management and data structures.
 
 This guide summarizes core principles, linking them to real-world developmental scenarios.
-
-<div class="adsense-slot"></div>
 
 ## 1. C++ Program Structure
 

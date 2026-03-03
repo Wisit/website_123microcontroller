@@ -1,21 +1,19 @@
 ---
 layout: post
 title: "C++ Functions Study Guide: From Basics to Advanced Techniques"
-description: "A comprehensive guide to understanding and using functions in C++, covering declarations, argument passing, return values, overloading, and special function types for clean and efficient code."
-date: 2026-03-03 18:00:00 +0700
-categories: [C++, Programming]
-tags: [c++, cpp, functions, programming, guide, tutorial]
-ref: cpp-functions-guide-20260303
 lang: en
+ref: cpp-functions-guide-20260303
 permalink: /en/cpp-functions-study-guide/
+description: "A comprehensive guide to understanding and using functions in C++, covering declarations, argument passing, return values, overloading, and special function types for clean and efficient code."
 image: assets/images/cpp-functions-study-guide-cover.jpg
+tags: [c++, cpp, functions, programming, guide, tutorial]
 ---
+
+<div class="adsense-slot"></div>
 
 # C++ Functions Study Guide: Complete Reference
 
 Functions are the fundamental building blocks of execution within a C++ program. Defining a function means specifying its exact task and behavior, while calling a function triggers that task into action. This guide covers essential concepts for developers, from basic declarations to advanced usage.
-
-<div class="adsense-slot"></div>
 
 ## 1. Function Declarations and Definitions
 

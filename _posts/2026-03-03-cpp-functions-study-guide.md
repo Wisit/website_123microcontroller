@@ -1,21 +1,19 @@
 ---
 layout: post
 title: "คู่มือการศึกษา: ฟังก์ชันในภาษา C++ (C++ Functions Study Guide)"
-description: "คู่มือเจาะลึกการใช้งานฟังก์ชันใน C++ ครอบคลุมตั้งแต่การประกาศ (Declaration) การส่งผ่านค่า (Argument Passing) การ Return ค่า ฟังก์ชัน Overload ไปจนถึงฟังก์ชันประเภทพิเศษ"
-date: 2026-03-03 18:00:00 +0700
-categories: [C++, Programming]
-tags: [c++, cpp, functions, programming, guide, tutorial, คู่มือ, เขียนโปรแกรม]
-ref: cpp-functions-guide-20260303
 lang: th
+ref: cpp-functions-guide-20260303
 permalink: /th/cpp-functions-study-guide/
+description: "คู่มือเจาะลึกการใช้งานฟังก์ชันใน C++ ครอบคลุมตั้งแต่การประกาศ (Declaration) การส่งผ่านค่า (Argument Passing) การ Return ค่า ฟังก์ชัน Overload ไปจนถึงฟังก์ชันประเภทพิเศษ"
 image: assets/images/cpp-functions-study-guide-cover.jpg
+tags: [c++, cpp, functions, programming, guide, tutorial, คู่มือ, เขียนโปรแกรม]
 ---
+
+<div class="adsense-slot"></div>
 
 # คู่มือการศึกษา: ฟังก์ชันในภาษา C++ ฉบับสมบูรณ์
 
 ฟังก์ชัน (Functions) เป็นกลไกหลักที่ใช้ขับเคลื่อนระบบการทำงานภายในโปรแกรม C++ การกำหนดฟังก์ชัน (Defining a function) คือการระบุว่างานนั้นๆ มีสเต็ปการทำงานอย่างไร ในขณะที่การเรียกใช้ (Calling a function) คือการสั่งให้โค้ดส่วนนั้นเริ่ม Execute เนื้อหาในบทความนี้จะครอบคลุมตั้งแต่เบสิกไปจนถึงเทคนิคที่ Developer ควรรู้
-
-<div class="adsense-slot"></div>
 
 ## 1. การประกาศและการนิยาม (Declarations and Definitions)
 

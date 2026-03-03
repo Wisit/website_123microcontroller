@@ -1,23 +1,21 @@
 ---
 layout: post
 title: "Solidifying C++ Fundamentals: Understanding Types and Variables"
-description: "A foundational guide to C++ programming exploring the critical concepts of Types and Variables, ensuring memory safety and maximizing hardware performance."
-date: 2026-03-03 18:30:00 +0700
-categories: [C++, Programming]
-tags: [c++, cpp, fundamentals, types, variables, programming, guide, tutorial]
-ref: cpp-types-variables-20260303
 lang: en
+ref: cpp-types-variables-20260303
 permalink: /en/cpp-types-and-variables/
+description: "A foundational guide to C++ programming exploring the critical concepts of Types and Variables, ensuring memory safety and maximizing hardware performance."
 image: assets/images/cpp-types-variables-cover.jpg
+tags: [c++, cpp, fundamentals, types, variables, programming, guide, tutorial]
 ---
+
+<div class="adsense-slot"></div>
 
 # Solidifying C++ Fundamentals: Understanding Types and Variables
 
 Hello fellow developers! Today, we're diving into the absolute "first button" of programming in C++: the core concepts of **Types** and **Variables**.
 
 Many might consider this a basic topic that everyone already knows. However, in the context of C++, truly understanding these two elements is the crucial key to writing type-safe code and extracting maximum performance from your hardware. Whether you are developing desktop applications or writing low-level firmware for a microcontroller, let's explore the hidden mechanisms behind Types and Variables in C++.
-
-<div class="adsense-slot"></div>
 
 ## Core Concepts of Data Management
 
