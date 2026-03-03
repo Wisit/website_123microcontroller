@@ -1,0 +1,5 @@
+Focus Cover Image Prompt (16:9):
+"A futuristic cybernetic ninja slicing through a glowing digital lock screen. The digital padlock is made of glowing blue code lines forming the word 'Type Safety'. The ninja sword glows brightly and shatters the lock with code fragments bursting outward. In the background there is a faint glow of an embedded microchip circuit board. Cinematic lighting, hyper-realistic, dark theme."
+
+Focus Inline Element / Block Diagram (3:2):
+"A visual block diagram showing a memory storage conversion trick. A large rectangular memory block labeled 'uint32_t (4 bytes)' splits dynamically to show its internal divisions of 4 smaller separated blocks labeled 'uint8_t'. There are glowing connection lines indicating a data cast transformation in a clean, modern tech style aesthetic. The color palette focuses on high-contrast neon blue and dark grey backgrounds."
