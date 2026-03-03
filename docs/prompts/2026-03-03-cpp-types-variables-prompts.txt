@@ -1,0 +1,8 @@
+Image Prompts for C++ Types and Variables Fundamentals
+
+1. Cover Image (16:9)
+Prompt: A cinematic, high-tech isometric workspace representing computer memory and variables in C++ programming. We see glowing digital "storage boxes" or containers suspended in a data matrix grid. Each box has a holographic label representing variables, and contains distinct data types like neon glowing numbers and characters. Dark background with deep indigo, electric blue, and neon green accents. Premium technology aesthetic, sharp focus, 8k resolution, Unreal Engine 5 render style. --ar 16:9
+
+2. Inline Diagram (3:2)
+Location: After "Initialization" in the Core Concepts section.
+Prompt: A clean, modern infographic diagram explaining the relationship between "Variables," "Memory Storage," and "Data Types" in programming. The diagram shows an empty box labeled as "Variable Address" transforming into a structured container with a specific shape labeled "Type Rules", holding a piece of data labeled "Value". It should visually contrast an accurately initialized box versus a box containing chaotic "garbage" data. Pure white background, professional vector art style, technical manual aesthetic, easy to understand. --ar 3:2
