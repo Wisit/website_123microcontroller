@@ -14,7 +14,11 @@
 ## 2. โครงสร้างทางเทคนิค (Technical Structure)
 * **Jekyll Front Matter:**
     * `ref`: ต้องเหมือนกันทั้ง 2 ภาษา (เพื่อใช้เป็น Unique ID เชื่อมบทความ)
+    * `lang`: ต้องระบุภาษา (`en` หรือ `th`)
+    * `permalink`: ต้องจัดการ Path ตามภาษา เช่น `/en/[slug]/` หรือ `/th/[slug]/`
     * `image`: ใช้ Path `assets/images/[filename].jpg` (ไม่ต้องมี `{{ site.baseurl }}`)
+* **Article Body:**
+    * เนื้อหาหลักต้องมีหัวข้อระดับ H1 (`# Title`) เป็นหัวข้อแรกของบทความเสมอ (เพื่อแสดงเป็นหัวข้อของหน้าเว็บ)
 * **Inline Images:**
     * เมื่อแทรกรูปในเนื้อหาบทความ (`body`) ต้องเติม `{{ site.baseurl }}` นำหน้าเสมอ
     * รูปแบบ: `![Alt Text]({{ site.baseurl }}/assets/images/[filename].jpg)`

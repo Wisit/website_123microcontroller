@@ -1,0 +1,8 @@
+Image Prompts for C++ Functions Study Guide
+
+1. Cover Image (16:9)
+Prompt: A cinematic, high-tech isometric workspace representing a C++ programming environment. Glowing holographic schematics floating above a desk, showing intricate nodes connecting to form robust software architectures. The nodes symbolize "Functions." Dark background with vibrant neon blue and orange accents. Premium technology aesthetic, sharp focus, 8k resolution, Unreal Engine 5 render style. --ar 16:9
+
+2. Inline Diagram (3:2)
+Location: After "Argument Passing" section concept explanation.
+Prompt: A clean, modern infographic diagram explaining "Argument Passing" in programming. The diagram uses minimalist geometric shapes and lines on a pure white background. It illustrates three paths: "Pass-by-value" (showing a duplicate shape), "Pass-by-reference" (showing a direct link to the original shape), and "Pass-by-const-reference" (showing a locked link). Professional, vector art style, technical manual aesthetic, easy to understand. --ar 3:2
