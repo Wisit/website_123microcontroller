@@ -1,0 +1,7 @@
+Image Prompts for: Memory Management
+
+1. Cover Image (16:9):
+Prompt: A highly cinematic and isometric view of a futuristic glowing motherboard. The center features a prominent memory chip with glowing blue "Static RAM" blocks arranged perfectly orderly and secure, while an adjacent area labeled "Dynamic Heap" shows shattered, fragmented red digital debris. Clean cyberpunk aesthetics, hyper-detailed, dramatic lighting, 8k resolution, Unreal Engine 5 render style. --ar 16:9
+
+2. Inline Diagram (3:2):
+Prompt: A clean, modern infographic diagram explaining embedded memory architecture. It features a vertical stacked column showing ".text (Flash)", ".data", ".bss", "Heap", and "Stack". The Heap section has a red "NO" symbol overlaid, pointing to an arrow highlighting "Static Allocation" as the preferred method. Flat design style, vector look, professional layout, crisp lines, with a solid white background. No difficult text. --ar 3:2
