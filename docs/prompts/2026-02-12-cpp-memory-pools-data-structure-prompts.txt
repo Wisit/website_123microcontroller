@@ -1,0 +1,7 @@
+Image Prompts for: Memory Pools (Fixed-size Blocks)
+
+1. Cover Image (16:9):
+Prompt: A highly cinematic and isometric view of a futuristic cyberpunk apartment complex (representing a Memory Pool). The building is divided into perfectly equal-sized glowing blue neon rooms. Some rooms are occupied by glowing orange data energy orbs (Allocated Nodes), while others are completely empty (Free Blocks). A sleek metallic walkway connects the empty rooms with a glowing green neon line representing a Free List chain. Dark atmosphere, highly detailed, Unreal Engine 5 render style, 8k resolution. --ar 16:9
+
+2. Inline Diagram (3:2):
+Prompt: A clean, modern infographic diagram explaining the Memory Pool with Free List data structure. On the left, an array of 5 perfectly equal-sized square blocks. Blocks 1, 3, and 5 contain the word "DATA". Blocks 2 and 4 are empty except for an arrow. An arrow pointing from Block 2 goes directly to Block 4. A label "Free List (Pointer)" points to the arrows. A label "Allocated Payload" points to the "DATA" blocks. Flat design style, vector look, professional layout, crisp lines, solid white background. No difficult text. --ar 3:2
