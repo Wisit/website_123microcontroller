@@ -1,0 +1,7 @@
+Image Prompts for: Encryption (Symmetric vs Asymmetric)
+
+1. Cover Image (16:9):
+Prompt: A highly cinematic and hyper-detailed cyberpunk illustration showing two distinct types of futuristic data vaults in a neon-lit server room. On the left side (Symmetric), a glowing blue titanium vault is locked with a single massive, complex high-tech keyhole, and a single matching key is floating in front of it. On the right side (Asymmetric), a menacing red-glowing vault has a split mechanism: a glowing padlock (Public Key) is snapped shut on the outside, but the true keyhole (Private Key) is deeply hidden behind thick armored glass. Unreal Engine 5 render style, 8k resolution, futuristic computing aesthetic, dramatic contrast between blue and red neon lighting. --ar 16:9
+
+2. Inline Diagram (3:2):
+Prompt: A clean, modern infographic diagram explaining Symmetric vs. Asymmetric Encryption. The diagram is split into two halves. Left Side labeled "Symmetric Encryption": Shows two people holding the exact same yellow key, using it to lock and unlock a data box. Right Side labeled "Asymmetric Encryption": Shows one person distributing an open padlock (Public Key), and someone else putting data in a box and locking it. Only the receiver has the blue master key (Private Key) to open it. Flat design style, vector look, professional educational layout, crisp lines, dark tech background with bright neon accents. No complex text except simple labels. --ar 3:2
