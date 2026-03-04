@@ -1,0 +1,7 @@
+Image Prompts for: Static Allocation
+
+1. Cover Image (16:9):
+Prompt: A highly cinematic and isometric view of a futuristic vault with heavy steel doors and glowing blue energy cores securely locked in grid-like positions, representing permanent static memory allocation. Outside the vault, red chaotic data streams bounce unpredictably, representing volatile dynamic memory. Clean cyberpunk aesthetics, hyper-detailed, dramatic lighting, 8k resolution, Unreal Engine 5 render style. --ar 16:9
+
+2. Inline Diagram (3:2):
+Prompt: A clean, modern infographic diagram comparing Static vs Dynamic Memory Allocation. It features a solid, perfectly structured blue block labeled "Static Allocation (Compile-Time)" with a checkmark, sitting next to a fragmented, uneven red block labeled "Dynamic Allocation (malloc) - Heap" with a warning cross. Flat design style, vector look, professional layout, crisp lines, with a solid white background. No difficult text. --ar 3:2
