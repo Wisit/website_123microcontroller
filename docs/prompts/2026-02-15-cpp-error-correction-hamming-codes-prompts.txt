@@ -1,0 +1,7 @@
+Image Prompts for: Error Correction (Hamming Codes)
+
+1. Cover Image (16:9):
+Prompt: A highly cinematic and hyper-detailed cyberpunk illustration showing an advanced autonomous repair drone fixing a glowing broken data core. A stream of blue digital data bits (0s and 1s) flows through the air, but one specific bit is glowing red and corrupted. The mechanical drone is shooting a precision laser beam to "heal" and flip the red bit back to healthy blue, symbolizing Error Correction. The background is a massive server room in deep space or a high-tech facility. Unreal Engine 5 render style, 8k resolution, futuristic computing aesthetic, dramatic lighting. --ar 16:9
+
+2. Inline Diagram (3:2):
+Prompt: A clean, modern infographic diagram explaining the concept of Hamming Codes. Left side shows "Raw Data" as 4 simple blue blocks. Middle section shows an "Encoder Hub" where 3 red "Parity Blocks" are precisely injected between the blue blocks, creating a 7-block package. Right side shows a "Decoder Hub" detecting one broken block and automatically replacing it with a fresh one. Flat design style, vector look, professional educational layout, crisp lines, solid white background, cyberpunk neon accents. No difficult text except simple labels. --ar 3:2
