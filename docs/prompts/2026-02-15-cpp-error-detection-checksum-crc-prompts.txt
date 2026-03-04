@@ -1,0 +1,7 @@
+Image Prompts for: Error Detection (Checksums & CRC)
+
+1. Cover Image (16:9):
+Prompt: A highly cinematic and hyper-detailed cyberpunk illustration showing a robot guard acting as an 'Integrity Checker'. The heavily armored tech-robot stands at a high-tech security gate. It scans a glowing blue data packet with a laser to ensure it's not broken. However, a stealthy ninja hacker covered in neon is holding an identical-looking (but forged) glowing red data packet right behind the robot, showing that the robot only checks for damage, not for clever thieves. Dark background, neon blue and red contrast, Unreal Engine 5 render style, 8k resolution, futuristic computing aesthetic. --ar 16:9
+
+2. Inline Diagram (3:2):
+Prompt: A clean, modern infographic diagram explaining the difference between Checksums and Cryptographic Security. Left side labeled "Integrity (Checksum/CRC)": Shows a simple mechanical inspector looking at a data box, making sure the box is not dented or broken by lightning (noise). Right side labeled "Security (Encryption/Hash)": Shows a high-tech titanium vault with complex laser locks protecting the data box from a shadowy thief character trying to steal it. Flat design style, vector look, professional educational layout, crisp lines, solid white background. No difficult text except simple labels. --ar 3:2
