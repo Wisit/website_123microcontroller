@@ -1,0 +1,7 @@
+Image Prompts for: Memory-Mapped I/O
+
+1. Cover Image (16:9):
+Prompt: A highly cinematic, hyper-detailed cyberpunk illustration of a robotic mechanical hand holding a glowing blue laser pointer (representing a C Pointer). The laser beam strikes directly into a complex metallic grid embedded in a microchip processor (representing the Memory Map). The exact point the laser hits glows bright neon orange, and energy lines shoot outwards. Dark atmosphere, high contrast, Unreal Engine 5 render style, 8k resolution, futuristic computing aesthetic. --ar 16:9
+
+2. Inline Diagram (3:2):
+Prompt: A clean, modern infographic diagram explaining Memory-Mapped I/O. The diagram shows a large vertical rectangle labeled "Unified Memory Map Space". Inside the rectangle, the top section is labeled "RAM Data", and the bottom section is highlighted in green, labeled "Hardware Registers / Peripherals". An arrow from a C code snippet labeled "*pointer = data" points directly into the green section. Flat design style, vector look, professional educational layout, crisp lines, solid white background. No difficult text. --ar 3:2
