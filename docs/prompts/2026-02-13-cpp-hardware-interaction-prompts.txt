@@ -1,0 +1,7 @@
+Image Prompts for: Hardware Interaction Data Structure
+
+1. Cover Image (16:9):
+Prompt: A highly cinematic and isometric view of a futuristic cyberpunk laboratory table. A glowing blue microscopic CPU core is resting on the table. A mechanical robotic hand (representing the C language) is using a tiny glowing energy screwdriver to manually flip microscopic physical switches (representing Registers) directly on the surface of the processor. Sparks of orange data energy are flying off. Dark atmosphere, highly detailed motherboard textures, cinematic lighting, Unreal Engine 5 render style, 8k resolution. --ar 16:9
+
+2. Inline Diagram (3:2):
+Prompt: A clean, modern infographic diagram explaining the connection between C code, Registers, and Hardware. On the left, a box labeled "C Code (Software)" with a pointer pointing to the right. In the middle, a block representing a microcontroller Memory Map, highlighting a specific row labeled "Hardware Register (0x40020000)". The register has small binary boxes inside (e.g., 00101000). On the right side, an icon representing a physical LED or Sensor. Arrows show data flowing from the code into the register, which physically turns on the LED. The keyword "volatile" is written near the pointer. Flat design style, vector look, professional layout, crisp lines, solid white background. No difficult text. --ar 3:2
