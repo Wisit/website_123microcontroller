@@ -1,0 +1,7 @@
+Image Prompts for: #include and Header Files
+
+1. Cover Image (16:9):
+Prompt: A highly cinematic and hyper-detailed cyberpunk illustration showing a futuristic mechanical robot arm operating over a glowing holographic desk. The robot arm is physically picking up a glowing blue holographic data block labeled "Header File" and aggressively "copy-pasting" perfectly slotting it into a massive, complex glowing orange code matrix hovering in the air. The background features a high-tech electronics lab or server room with wires and neon lights. Unreal Engine 5 render style, 8k resolution, futuristic computing aesthetic, dramatic contrast between blue and orange neon lighting. --ar 16:9
+
+2. Inline Diagram (3:2):
+Prompt: A clean, modern infographic diagram explaining the difference in search paths for C Preprocessor include directives. The diagram is split horizontally. Top half labeled "#include <filename.h>": Shows a solid curved arrow pointing aggressively from a code document directly skipping local folders and landing in a fortress labeled "System Compiler Directories." Bottom half labeled "#include \"filename.h\"": Shows a dashed arrow pointing first to a nearby folder labeled "Local Project Directory," and then a secondary arrow pointing to the "System Compiler Directories." Flat design style, vector look, professional educational layout, crisp lines, dark tech background with bright neon accents. No complex text except simple labels. --ar 3:2
