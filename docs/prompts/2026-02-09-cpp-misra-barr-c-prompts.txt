@@ -1,0 +1,7 @@
+Image Prompts for: MISRA C and BARR-C Safer C
+
+1. Cover Image (16:9):
+Prompt: A highly cinematic, isometric view of two glowing high-tech energy shields intersecting over a metallic microcontroller. One shield is glowing blue, the other glowing amber. They protect the chip from red digital corrupted data raining down. Clean cyberpunk aesthetics, hyper-detailed, dramatic lighting, 8k resolution, Unreal Engine 5 render style. --ar 16:9
+
+2. Inline Diagram (3:2):
+Prompt: A clean, modern infographic diagram explaining embedded software standard layers. It features interconnected nodes showing "ISO C", "BARR-C", and "MISRA C" as concentric protective layers around "Core Hardware". Flat design style, vector look, professional, crisp lines, with a solid white background. No difficult text. --ar 3:2
