@@ -1,0 +1,7 @@
+Image Prompts for: Serial Buses (SPI, I2C, UART)
+
+1. Cover Image (16:9):
+Prompt: A highly cinematic, hyper-detailed cyberpunk illustration of a complex microchip data highway system. Three distinct, glowing neon energy lines representing data buses connect towering, monolithic CPU buildings to smaller peripheral structures. One lane glows bright blue (UART), one lane glows intense red with multiple parallel tracks (SPI), and one lane glows vibrant green connecting to many small buildings in a row (I2C). Data packets pulse along the lines like glowing cars. Dark background, neon glow, Unreal Engine 5 render style, 8k resolution, futuristic tech aesthetic. --ar 16:9
+
+2. Inline Diagram (3:2):
+Prompt: A clean, modern infographic diagram comparing the three serial buses: UART, SPI, and I2C. The diagram is split into three vertical sections side-by-side. Left section (UART): Shows 2 squares with wires crossing X-style between them (TX to RX, RX to TX). Middle section (SPI): Shows 4 parallel wires connecting a Master square to a Slave square (MOSI, MISO, SCK, CS). Right section (I2C): Shows 2 wires (SDA, SCL) with pull-up resistors, connecting a Master square to three smaller Slave squares. Flat design style, vector look, professional educational layout, crisp lines, solid white background. No difficult text. --ar 3:2
