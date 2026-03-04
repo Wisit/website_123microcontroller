@@ -1,0 +1,7 @@
+Image Prompts for: Endianness (Big-endian vs Little-endian)
+
+1. Cover Image (16:9):
+Prompt: A highly cinematic, hyper-detailed cyberpunk illustration conceptualizing the battle of Endianness. A large, glowing, translucent computer memory block lies in the center. Two futuristic, robotic engineer avatars stand on opposite ends of the memory block, intensely focused. One robot is attempting to plug a glowing blue "Large Data Byte" (Big-endian) into the left side of the memory, while the other modern, sleek robot is trying to plug a glowing orange "Small Data Byte" (Little-endian) into the right side. Dark background, neon blue and orange contrast, holographic data streams, Unreal Engine 5 render style, 8k resolution, futuristic computing aesthetic. --ar 16:9
+
+2. Inline Diagram (3:2):
+Prompt: A clean, modern infographic diagram explaining Big-Endian vs Little-Endian memory storage. The diagram shows the 32-bit hex value "0x12345678" being stored in memory slots. Top section labeled "Big-Endian (MSB First)": Shows an arrow pointing to memory boxes, placing "12" in address 0x00, "34" in 0x01, "56" in 0x02, "78" in 0x03. Bottom section labeled "Little-Endian (LSB First)": Shows an arrow pointing to memory boxes, placing "78" in address 0x00, "56" in 0x01, "34" in 0x02, "12" in 0x03. Flat design style, vector look, professional educational layout, crisp lines, solid white background. No difficult text except hex numbers and simple labels. --ar 3:2
