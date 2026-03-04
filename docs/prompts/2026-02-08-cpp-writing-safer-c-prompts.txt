@@ -1,0 +1,7 @@
+Image Prompts for: Writing Safer C
+
+1. Cover Image (16:9):
+Prompt: A highly cinematic and isometric view of a robust, metallic microchip glowing with secure blue and green data streams inside an industrial high-tech facility. The chip has a protective, translucent shield indicating safety and security. Clean cyberpunk aesthetics, hyper-detailed, dramatic lighting, 8k resolution, Unreal Engine 5 render style. --ar 16:9
+
+2. Inline Diagram (3:2):
+Prompt: A clean, modern infographic diagram explaining embedded software safety mechanisms. It features interconnected nodes showing "Code", "MISRA C Standard Shield", and "Safe Hardware Execution". Flat design style, vector look, professional, crisp lines, with a solid white background. No difficult text. --ar 3:2
