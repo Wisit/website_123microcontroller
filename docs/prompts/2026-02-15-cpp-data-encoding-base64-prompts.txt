@@ -1,0 +1,7 @@
+Image Prompts for: Data Encoding (Base64)
+
+1. Cover Image (16:9):
+Prompt: A highly cinematic and hyper-detailed cyberpunk illustration showing the deceptive nature of Base64 encoding. In the foreground, a glowing, transparent glass box labeled "Base64" containing a glowing binary data core (0s and 1s). However, a sinister hacker figure in the dark background is easily opening the glass box without a key, revealing that it offers no real protection. The lighting is dramatic, with neon blue from the data contradicting chaotic red ambient light. Unreal Engine 5 render style, 8k resolution, futuristic hacker aesthetic. --ar 16:9
+
+2. Inline Diagram (3:2):
+Prompt: A clean, modern infographic diagram explaining Base64 encoding at the bit level. It shows a continuous block of 24 bits (represented as small squares) on the top line, divided into three 8-byte blocks. Arrows point down to the bottom line, where the same 24 bits are now separated into four 6-bit blocks. Each 6-bit block has an arrow pointing downwards to a corresponding letter ('A', 'z', '0', '+'). Flat design style, vector look, professional educational layout, crisp lines, solid white background. No difficult text except bit representations and characters. --ar 3:2
