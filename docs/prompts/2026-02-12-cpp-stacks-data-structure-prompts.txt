@@ -1,0 +1,7 @@
+Image Prompts for: Stacks (LIFO) Data Structure
+
+1. Cover Image (16:9):
+Prompt: A highly cinematic and isometric view of a futuristic robotic manufacturing facility. A glowing cyan elevator platform holds a vertical stack of metallic energy cubes. A sleek mechanical arm is gently pressing (Pushing) a new glowing orange data cube onto the very top of the stack. Bright, dramatic neon lighting, sharp metallic textures, cyberpunk aesthetic, 8k resolution, Unreal Engine 5 render style. --ar 16:9
+
+2. Inline Diagram (3:2):
+Prompt: A clean, modern infographic diagram explaining the Stack (LIFO) data structure. The visual uses a vertical cylinder or container holding three colored blocks stacked on each other. An arrow labeled "PUSH" points down toward the top of the stack, showing a new block entering. Another arrow labeled "POP" points up and away from the top block, showing it being removed. LIFO acronym should be visible. Flat design style, vector look, professional layout, crisp lines, solid white background. No difficult text. --ar 3:2
