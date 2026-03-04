@@ -1,0 +1,7 @@
+Image Prompts for: Linked Lists Data Structure
+
+1. Cover Image (16:9):
+Prompt: A highly cinematic and isometric view of a futuristic digital energy train. Glowing green data cubes (Nodes) are floating independently in a vast dark cyberspace, connected to each other by strong, glowing electric arcs (Pointers). The arrangement is non-linear but sequentially connected. Clean cyberpunk aesthetics, hyper-detailed, neon green and dark blue tones, 8k resolution, Unreal Engine 5 render style. --ar 16:9
+
+2. Inline Diagram (3:2):
+Prompt: A clean, modern infographic diagram explaining the Linked List Data Structure. It features three separate rounded rectangles labeled "Node 1 (Head)", "Node 2", and "Node 3". Each Node is split into two halves: "Data" and "Next". A bright, solid arrow starts from the "Next" half of Node 1 and physically points to Node 2, and from Node 2 to Node 3. The "Next" half of Node 3 has a "NULL" symbol (strikethrough circle). Flat design style, vector look, professional layout, crisp lines, with a solid white background. No difficult text. --ar 3:2
