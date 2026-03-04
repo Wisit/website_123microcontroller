@@ -1,0 +1,7 @@
+Image Prompts for: Interrupt Service Routines (ISR) Data Structure
+
+1. Cover Image (16:9):
+Prompt: A highly cinematic and dramatic view of a futuristic cyberpunk control room. A robotic engineer (representing the CPU) is peacefully reading a glowing data scroll. Suddenly, a bright red, jagged lightning bolt made of digital code (representing the Interrupt Request) strikes the room, shattering the calm. The environment is illuminated by the harsh red light. The glowing data scroll is suspended safely in a glowing green forcefield (representing the Stack/Context Save). High action, hyper-detailed, Unreal Engine 5 render style, 8k resolution, futuristic computing aesthetic. --ar 16:9
+
+2. Inline Diagram (3:2):
+Prompt: A clean, modern infographic flowchart explaining the Interrupt Service Routine (ISR) process. The diagram is split into two swimlanes. Top lane: "Main Program (Polling)". Shows a straight line of code blocks repeating in a circle. Bottom lane: "Interrupt Driven". Shows a straight line of code. An icon of a hardware sensor sends an arrow (IRQ) that breaks the straight line. The line diverts down to a block labeled "ISR (Context Save, Clear Flag, Execute, Context Restore)", and then the arrow returns exactly to where the main line was broken. Flat design style, vector look, professional educational layout, crisp lines, solid white background. No difficult text. --ar 3:2
