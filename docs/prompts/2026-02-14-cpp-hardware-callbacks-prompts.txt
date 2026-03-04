@@ -1,0 +1,7 @@
+Image Prompts for: Callbacks in Hardware
+
+1. Cover Image (16:9):
+Prompt: A highly cinematic and hyper-detailed cyberpunk illustration of a futuristic glowing energy bridge connecting two distinct sides. On the left side, a raw, gritty, mechanical robotic arm (representing Hardware) reaches out. On the right side, a sleek, glowing holographic interface displaying complex data and code (representing Application Logic). The bridge (Abstraction/Callback) perfectly connects them through a glowing port. Dark background, neon blue and orange contrast, Unreal Engine 5 render style, 8k resolution, futuristic computing aesthetic. --ar 16:9
+
+2. Inline Diagram (3:2):
+Prompt: A clean, modern infographic diagram explaining Dependency Inversion using Callbacks in C. The diagram is split into top and bottom sections. Top: "Application Logic" block with an arrow pointing down labeled "Register Callback". Bottom: "Hardware Driver" block containing a spinning gear icon. It shows an arrow pointing back up labeled "Trigger Callback on Interrupt". A bold dashed line separates the two blocks labeled "Abstraction Barrier". Flat design style, vector look, professional educational layout, crisp lines, solid white background. No difficult text. --ar 3:2
