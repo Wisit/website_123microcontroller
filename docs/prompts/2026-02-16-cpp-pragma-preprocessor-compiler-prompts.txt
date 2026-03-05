@@ -1,0 +1,7 @@
+Image Prompts for: #pragma (Implementation-defined)
+
+1. Cover Image (16:9):
+Prompt: A highly cinematic and hyper-detailed cyberpunk illustration showing a shadowy hacker engineer manipulating a glowing holographic "remote control" console. The console has complex dials and switches labeled with cryptic symbols, directly shooting a beam of energy into a massive, monolithic robot labeled "COMPILER". The background is a dark, industrial factory setting with sparks and neon lights. Unreal Engine 5 render style, 8k resolution, futuristic computing aesthetic, dramatic contrast between dark shadows and bright neon green/purple lighting. --ar 16:9
+
+2. Inline Diagram (3:2):
+Prompt: A clean, modern infographic diagram explaining the #pragma directive. Left side shows a generic block of C code. A highlighted "#pragma" line acts like a magical key opening a backdoor in a massive, armored wall labeled "Compiler Standard". Right side shows the "Compiler Engine Room" with specific gears turning (labeled "Memory Alignment", "Interrupts", "Warnings"). Flat design style, vector look, professional educational layout, crisp lines, dark tech background with bright neon accents. No complex text except simple labels. --ar 3:2
