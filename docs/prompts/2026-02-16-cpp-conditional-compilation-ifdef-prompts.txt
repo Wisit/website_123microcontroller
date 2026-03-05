@@ -1,0 +1,7 @@
+Image Prompts for: Conditional Compilation (#ifdef, #ifndef)
+
+1. Cover Image (16:9):
+Prompt: A highly cinematic and hyper-detailed cyberpunk illustration showing a glowing, futuristic railway switch mechanism. The main track splits into three distinct paths. At the switch point, a shadowy engineer is pulling a large, heavy mechanical lever labeled "#ifdef". The tracks lead towards glowing, intricate microchip cities in the background. Unreal Engine 5 render style, 8k resolution, futuristic computing aesthetic, dramatic lighting with sparks flying from the lever mechanism, emphasizing the concept of switching paths and targeting different hardware. --ar 16:9
+
+2. Inline Diagram (3:2):
+Prompt: A clean, modern infographic diagram explaining conditional compilation. Left side shows a generic block of C codebase with layers representing "Hardware Rev 1" and "Hardware Rev 2". A central, stylized mechanical switch with an "#if" label acts as a gatekeeper. Right side shows the "Compiler Engine Room" successfully compiling only one specific, glowing block of code while rejecting the other into a phantom state. Flat design style, vector look, professional educational layout, crisp lines, dark tech background with bright neon accents. No complex text except simple labels. --ar 3:2
