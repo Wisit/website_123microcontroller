@@ -1,0 +1,7 @@
+Image Prompts for: #define (Object-like & Function-like Macros)
+
+1. Cover Image (16:9):
+Prompt: A highly cinematic and hyper-detailed cyberpunk illustration showing a futuristic mechanical robot arm operating over a glowing holographic desk. The robot arm is physically picking up a glowing blue holographic text block labeled "#define" and aggressively "morphing" or "stamping" it into a massive, complex glowing orange code matrix hovering in the air. The background features a high-tech electronics lab or server room with wires and neon lights. Unreal Engine 5 render style, 8k resolution, futuristic computing aesthetic, dramatic contrast between blue and orange neon lighting. --ar 16:9
+
+2. Inline Diagram (3:2):
+Prompt: A clean, modern infographic diagram explaining the C Preprocessor Macro substitution mechanism. The diagram is split horizontally. Top half labeled "Object-like Macro": Shows a block "#define MAX 100" pointing with a solid curved arrow to a block of code where "MAX" magically transforms into "100". Bottom half labeled "Function-like Macro": Shows a block "#define SQUARE(x) ((x)*(x))" pointing to a code block where "SQUARE(5)" explodes into "((5)*(5))". Flat design style, vector look, professional educational layout, crisp lines, dark tech background with bright neon accents. No complex text except simple labels. --ar 3:2
