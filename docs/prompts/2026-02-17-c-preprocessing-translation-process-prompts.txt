@@ -1,0 +1,7 @@
+Image Prompts for "Preprocessing: Uncovering the First Frontier of the Translation Process"
+
+1. Cover Image (16:9)
+Prompt: A highly detailed, cinematic, and isometric illustration of a futuristic, glowing "robot editor" meticulously typing and assembling brilliant blue lines of C code on a high-tech assembly line. The robot is stripping away unused elements and connecting logic blocks. In the background a massive, dark industrial "compiler factory" waits to receive the finished code blueprint. Tech-noir style, neon blue and orange accents, emphasizing process and transition. --ar 16:9
+
+2. Inline Diagram (3:2)
+Prompt: A clean, professional technical diagram with a pure white background explaining the "C Translation Process: Preprocessing Phases". It should display a flowchart-style visualization showing 4 clear steps: 1) Character Mapping, 2) Line Splicing, 3) Tokenization & Comment Stripping, and 4) Directive Execution. Raw source code icon goes in on the left, passing through these four mechanical/digital filtering stages, and a purified "Translation Unit" document emerges on the right. Minimalist flat design, clear technical icons, modern UI colors (light blue, green, and dark gray). --ar 3:2

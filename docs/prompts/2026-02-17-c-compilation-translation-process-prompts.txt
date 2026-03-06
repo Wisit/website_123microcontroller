@@ -1,0 +1,7 @@
+Image Prompts for "Compilation Phase: Breaking the Black Box of the Translation Process"
+
+1. Cover Image (16:9)
+Prompt: A highly detailed, cinematic, and isometric illustration of a massive, dark industrial "Compiler Engine" melting down brilliant blue lines of C code like raw metal. The high-tech furnace is aggressively crushing the floating letters and morphing them into glowing green and orange 1s and 0s (machine code) that pour off the assembly line onto a microchip. Tech-noir style, glowing heat, heavy machinery, aggressive cyberpunk vibe emphasizing the brutal transmutation of code. --ar 16:9
+
+2. Inline Diagram (3:2)
+Prompt: A clean, professional technical diagram with a pure white background explaining the "Inside the Compiler: 5 Analytical Stages". It should display a flowchart-style visualization showing a pure "Translation Unit" document entering a black box. Inside the box are 5 clear interconnected nodes: 1) Lexical Analysis, 2) Syntax Analysis (AST), 3) Semantic Analysis, 4) Code Optimization, and 5) Code Generation. On the right side, an "Object File (.o)" emerges. Minimalist flat design, clear technical icons, modern UI colors (light blue, orange, and dark gray). --ar 3:2
