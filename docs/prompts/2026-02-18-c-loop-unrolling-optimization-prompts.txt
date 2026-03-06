@@ -1,0 +1,7 @@
+Image Prompts for "Loop Unrolling: Shattering Loop Execution"
+
+1. Cover Image (16:9)
+Prompt: A highly cinematic, hyper-dynamic sci-fi illustration representing "Loop Unrolling". On the left side, a glowing, circular energy ring (representing a slow 'for loop') is struggling to process data packets one by one. On the right side, the ring violently shatters and unfurls into four parallel, blazing-fast neon energy streams (representing the unrolled execution), simultaneously shooting data packets forward at light speed. Intense motion blur, glowing blue and intense magenta energy, dark high-tech background, aggressive acceleration aesthetic. --ar 16:9
+
+2. Inline Diagram (3:2)
+Prompt: A clean, professional technical UI diagram comparing a "Standard Loop" vs "Unrolled Loop". The design should be split vertically on a pure white background. Top half ("Standard Loop"): Shows a small circular gear spinning, feeding data blocks (1, 2, 3...) one at a time down a single thin grey pipe. Bottom half ("Unrolled Loop"): Shows four distinct, thick orange pipes placed parallel to each other, blasting data blocks (1, 2, 3, 4 simultaneously) forward all at once. Minimalist flat design, clear technical flowchart style, modern UI colors representing speed and parallel processing. --ar 3:2
