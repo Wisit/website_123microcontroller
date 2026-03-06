@@ -1,0 +1,7 @@
+Image Prompts for "Linker Scripts: The Memory Architecture Blueprint"
+
+1. Cover Image (16:9)
+Prompt: A highly detailed, cinematic, and isometric illustration of a futuristic digital architect (representing the Locator) aggressively stamping a glowing, complex holographic blueprint (the Linker Script) directly onto the surface of a massive, dark silicon microchip. Bright orange zones represent "RAM" and brilliant blue zones represent "Flash Memory". Binary code and structural lines are flooding into exact specific grids on the chip. Tech-noir style, heavy shadows, striking geometric neon structures emphasizing extreme precision and zoning. --ar 16:9
+
+2. Inline Diagram (3:2)
+Prompt: A clean, professional technical diagram with a pure white background explaining the "Linker Script Segments and LMA vs VMA". It should show a visualization with an "Executable File" on the left splitting into three data chunks: ".text (Blue)", ".data (Orange)", and ".bss (Green)". These chunks are being mapped into a Hardware Memory Map on the right, which shows a "Flash ROM" block and an "SRAM" block. A distinct arrow should show the .data segment's "LMA" pointing to Flash and its "VMA" pointing to SRAM with a "copy at boot" symbol. Minimalist flat design, clear technical icons, modern UI colors. --ar 3:2
