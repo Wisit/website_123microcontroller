@@ -1,0 +1,7 @@
+Image Prompts for "Algorithm Choice & Big O Notation"
+
+1. Cover Image (16:9)
+Prompt: A cinematic, high-contrast, cyberpunk-style representation of algorithmic optimization. A glowing, complex, highly organized data structure tree (representing $O(\log n)$ efficiency) aggressively shattering and overpowering a slow, heavy, massive interconnected metallic chain (representing $O(n)$ inefficiency) inside a futuristic microcontroller core. Glowing blue and neon green accents against a dark metallic background, intense energy beams, highly detailed tech-noir esthetic emphasizing raw computational dominance. --ar 16:9
+
+2. Inline Diagram (3:2)
+Prompt: A clean, professional technical mathematical line graph comparing Big O Notation complexity classes. The X-axis is labeled "Input Size (n)" and Y-axis labeled "Execution Time / CPU Load". Graph lines: O(1) flat green line completely flat at the bottom, O(log n) a very low curve in bright cyan, O(n) a perfect diagonal line in yellow, O(n log n) a steeper orange curve, and O(n^2) violently curving up vertically in harsh red. Professional UI styling, minimal grid lines, technical data visualization, pure white background. --ar 3:2
