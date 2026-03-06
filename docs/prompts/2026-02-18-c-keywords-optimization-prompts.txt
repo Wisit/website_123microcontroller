@@ -1,0 +1,7 @@
+Image Prompts for "3 Compiler Command Keywords: const, volatile, inline"
+
+1. Cover Image (16:9)
+Prompt: A highly detailed, intense cyberpunk illustration of a heavy industrial mechanical control panel. Three glowing, hyper-advanced switches or crystalline control rods are prominently featured, glowing in intense neon blue, bright explosive orange, and razor-sharp green. These represent the "const", "volatile", and "inline" execution commands. Electrical arcs are violently leaping from the switches directly into a massive, dark silicon microcontroller core in the background, showing absolute raw hardware dominance and optimization control. Dark metallic textures, tech-noir environment, highly cinematic lighting. --ar 16:9
+
+2. Inline Diagram (3:2)
+Prompt: A clean, professional technical infographic diagram explaining three C compiler keywords. The diagram is split into three equal vertical columns on a pure white background. Left Column ("const"): Shows a blue lock icon shielding a variable, with an arrow pointing to a solid blue "Flash ROM" block. Middle Column ("volatile"): Shows a yellow hazard/refresh icon on an Orange variable, with an arrow pointing directly to a live "Hardware Sensor" icon, bypassing a crossed-out "CPU Cache" box. Right Column ("inline"): Shows a green lightning bolt icon violently injecting a small block of code (function body) directly into a larger main loop execution timeline. Minimalist flat design, clear technical icons, modern UI colors. --ar 3:2
