@@ -1,0 +1,7 @@
+Image Prompts for "Synchronization: Mutexes & Semaphores"
+
+1. Cover Image (16:9)
+Prompt: A highly cinematic, hyper-dynamic technical sci-fi illustration representing "Data Synchronization and Mutex Locks". In the center, a massive, glowing, impenetrable high-tech digital vault (representing a Mutex/Critical Section) emitting a powerful golden energy shield. On the left side, aggressive neon blue data streams (Tasks) are waiting perfectly behind an energy barrier. On the right side, a single green data stream has successfully breached the vault and holds a glowing physical sci-fi "Key". Epic scale, dark neon tech-noir background, extreme contrast between chaotic data streams outside and absolute order inside. --ar 16:9
+
+2. Inline Diagram (3:2)
+Prompt: A clean, professional technical UI diagram comparing "Mutex" vs "Semaphore". The design is split into two halves on a pure white background. Left half ("Mutex - Ownership"): Visualized as a single locked box with a glowing key icon; "Task A" physically holds the key and is actively securing the lock, while "Task B" is shown hitting a red block barrier. Right half ("Semaphore - Signaling"): Visualized as a vibrant relay race baton exchange mechanism or a counting toll booth; "Task C" is violently handing off a glowing green baton/signal wave directly to a waiting "Task D". Minimalist flat design, clear technical flowchart style, modern UI colors representing hardware synchronization. --ar 3:2

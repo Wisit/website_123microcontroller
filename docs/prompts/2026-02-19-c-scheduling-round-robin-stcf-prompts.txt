@@ -1,0 +1,7 @@
+Image Prompts for "Scheduling (Round-Robin & STCF): Dominating CPU Queues"
+
+1. Cover Image (16:9)
+Prompt: A highly cinematic, hyper-dynamic sci-fi illustration representing "CPU Queue Scheduling". In the center, a massive, glowing, high-tech metallic clock face or circular dial (representing the Round-Robin Scheduler) is aggressively distributing laser energy beams to multiple different drone-like tasks hovering in a perfect circle around it. Suddenly, on the right side, a hyper-fast, streamlined, razor-sharp bright red data missile (representing STCF) violently cuts through the circle, completely bypassing the queue and striking directly into the central core. Epic scale, dark tech-noir background, intense neon blues and alarming reds. --ar 16:9
+
+2. Inline Diagram (3:2)
+Prompt: A clean, professional technical UI diagram comparing "Round-Robin" vs "STCF" scheduling. The design is split vertically on a pure white background. Top half ("Round-Robin"): Shows a neat circle of equally sized colorful blocks (Tasks A, B, C, D) connected by arrows in a continuous loop, with a "Time Slice Timer" icon securely monitoring the center. Bottom half ("STCF"): Shows a chaotic queue line of task blocks of wildly different sizes. A large, robotic "Scheduler Arm" is aggressively ripping the absolute smallest execution block directly from the back of the queue line and violently shoving it to the extreme front, completely bypassing the larger blocks. Minimalist flat design, clear technical flowchart style, modern UI colors. --ar 3:2
