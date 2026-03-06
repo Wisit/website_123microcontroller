@@ -1,0 +1,7 @@
+Image Prompts for "Cooperative vs Pre-emptive: Architecture of Multitasking"
+
+1. Cover Image (16:9)
+Prompt: A highly cinematic, hyper-dynamic sci-fi illustration dividing two contrasting technological philosophies representing RTOS scheduling. On the left side (Cooperative): Smooth, glowing blue and cyan energy streams perfectly weaving together sequentially in harmony, passing glowing batons. On the right side (Pre-emptive): Brutal, sharp, high-contrast aggressive crimson and orange laser lightning violently slicing straight across and interrupting the primary data streams, representing absolute authoritarian high-priority override. Dark high-tech silicon background, intense contrast between smooth cooperation and violent preemption. --ar 16:9
+
+2. Inline Diagram (3:2)
+Prompt: A clean, professional technical infographic comparing "Cooperative Multitasking" vs "Pre-emptive Multitasking". Design split vertically on a pure white background. Top half ("Cooperative"): Shows a horizontal timeline where Task A finishes smoothly and physically hands an "Execution Token" to Task B. Bottom half ("Pre-emptive"): Shows a horizontal timeline where Task A is running, suddenly a "Timer Interrupt" lightning bolt strikes from above, violently severing the Task A execution block and instantly forcing Task B (in red/urgent color) to execute immediately. Minimalist flat design, clear technical flowchart style, modern UI colors representing the distinct mechanics of CPU control loops. --ar 3:2
