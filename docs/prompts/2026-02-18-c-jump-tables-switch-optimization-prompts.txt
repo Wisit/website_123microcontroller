@@ -1,0 +1,7 @@
+Image Prompts for "Jump Tables & Switch Statements: Unlocking Light-Speed Branching"
+
+1. Cover Image (16:9)
+Prompt: A highly cinematic, hyper-dynamic sci-fi illustration representing "Jump Table Execution". Inside a glowing, massive high-tech server labyrinth, an energy packet is shown bypassing a long, exhausting maze of sequential blue security doors (representing slow if-else conditions). Instead, the energy packet steps onto a glowing neon orange teleporter pad (Jump Table) and violently teleports directly to its final destination in a blast of light. Intense motion blur, glowing orange and cyan energy, dark tech-noir background, portraying absolute light-speed shortcuts through physical memory. --ar 16:9
+
+2. Inline Diagram (3:2)
+Prompt: A clean, professional technical UI diagram comparing an "If-Else Ladder" vs a "Jump Table". The design should be split vertically on a pure white background. Top half ("If-Else Ladder"): Shows a single data flow agonizingly bouncing down a winding, zig-zag downward staircase, forced to hit multiple red "X" gates before finding a green "O" gate at the bottom. Bottom half ("Jump Table"): Shows a high-tech "Switch Matrix Core" routing the data flow directly out via a massive, singular straight green arrow instantly striking the correct destination box, entirely skipping the steps. Minimalist flat design, clear technical flowchart style, modern UI colors representing instant data teleportation. --ar 3:2
