@@ -1,0 +1,7 @@
+Image Prompts for "Linkage and the Linker Mechanism: Assembling Object Files"
+
+1. Cover Image (16:9)
+Prompt: A highly detailed, cinematic, and isometric illustration of a massive, glowing robotic "Assembly Mechanism" (representing the Linker) working in a dark, high-tech engineering bay. The giant machine arms are aggressively welding and fusing multiple shattered, glowing green and orange circuitry fragments (Object files) together to forge one massive, unified blue core (the Executable). Sparks flying, heavy structural beams, emphasizing raw connection and assembly power. Tech-noir style, glowing neon accents against a dark metallic background. --ar 16:9
+
+2. Inline Diagram (3:2)
+Prompt: A clean, professional technical diagram with a pure white background explaining "C Linkage and Symbol Resolution". It should show a visualization with three layers. Left side: Three blue boxes representing isolated ".o Object Files", each with puzzle-piece-like connectors sticking out (labeled "External Symbols"). Middle: A central hub representing the "Linker" actively connecting and wiring these puzzle pieces together with precise orange lines. Right Side: A single massive green block representing the final ".elf Executable". Minimalist flat design, clear technical icons, modern UI colors (light blue, bright orange, and dark gray). --ar 3:2
