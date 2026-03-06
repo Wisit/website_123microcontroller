@@ -1,0 +1,7 @@
+Image Prompts for "Context Switching: The Latent Magic"
+
+1. Cover Image (16:9)
+Prompt: A highly cinematic, hyper-dynamic cybernetic illustration representing "CPU Context Switching". In the center, a dark, heavy metallic CPU core. Suddenly, multiple bright glowing holographic projections (Tasks) are being violently ripped in and out of the core at lightspeed. Neon data streams are aggressively saving massive blocks of glowing code into a secure "Stack" vault on the left, while instantly loading a fresh, distinctly colored block of code from the right straight into the core. Epic scale, intense motion blur, dark neon tech-noir background emphasizing immense speed and raw hardware manipulation. --ar 16:9
+
+2. Inline Diagram (3:2)
+Prompt: A clean, professional technical UI diagram dissecting the execution of a "Context Switch". The design is split horizontally into three phases on a pure white background. Top phase: Shows "Task A" executing in a green block. Middle phase: A dramatic red "Timer Interrupt" lightning bolt strikes, triggering a complex interchange mechanism where Task A's CPU Registers (visually represented as mini-blocks) are securely funneled down into a "Memory Stack" icon, while Task B's registers are pulled up. Bottom phase: Shows "Task B" cleanly commencing execution in a blue block. Minimalist flat design, clear technical flowchart style, modern UI colors representing raw hardware transitions. --ar 3:2
